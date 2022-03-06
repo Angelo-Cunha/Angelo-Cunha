@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/Angelo-Cunha">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Angelo-Cunha&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelo-Cunha&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Angelo-Cunha&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelo-Cunha&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
   
 ## **Linguagens e Ferramentas:**
