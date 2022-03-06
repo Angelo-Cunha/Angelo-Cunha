@@ -3,6 +3,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/angelo-cunha-28640b195//)](https://www.linkedin.com/in/angelo-cunha-28640b195/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=angeloantonio198@gmail.com)](angeloantonio198@gmail.com)
+[![Lattes Badge](https://img.shields.io/badge/-Lattes-blue?style=flat-square&logo=Lattes&logoColor=white&link=http://lattes.cnpq.br/3736531431304294)](http://lattes.cnpq.br/3736531431304294)
+[![Site Badge](https://img.shields.io/badge/-Site-green?style=flat-square&logo=Site&logoColor=white&link=https://sites.google.com/view/angelocunha/in%C3%ADcio)](https://sites.google.com/view/angelocunha/in%C3%ADcio)
 
 
 <div align="center">
